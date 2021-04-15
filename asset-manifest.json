@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-fly-tickets/static/css/main.4a5977a1.chunk.css",
+    "main.js": "/test-fly-tickets/static/js/main.16ae92f2.chunk.js",
+    "main.js.map": "/test-fly-tickets/static/js/main.16ae92f2.chunk.js.map",
+    "runtime-main.js": "/test-fly-tickets/static/js/runtime-main.f3e3ede4.js",
+    "runtime-main.js.map": "/test-fly-tickets/static/js/runtime-main.f3e3ede4.js.map",
+    "static/js/2.353b7844.chunk.js": "/test-fly-tickets/static/js/2.353b7844.chunk.js",
+    "static/js/2.353b7844.chunk.js.map": "/test-fly-tickets/static/js/2.353b7844.chunk.js.map",
+    "static/js/3.55fa2fd2.chunk.js": "/test-fly-tickets/static/js/3.55fa2fd2.chunk.js",
+    "static/js/3.55fa2fd2.chunk.js.map": "/test-fly-tickets/static/js/3.55fa2fd2.chunk.js.map",
+    "index.html": "/test-fly-tickets/index.html",
+    "static/css/main.4a5977a1.chunk.css.map": "/test-fly-tickets/static/css/main.4a5977a1.chunk.css.map",
+    "static/js/2.353b7844.chunk.js.LICENSE.txt": "/test-fly-tickets/static/js/2.353b7844.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3e3ede4.js",
+    "static/js/2.353b7844.chunk.js",
+    "static/css/main.4a5977a1.chunk.css",
+    "static/js/main.16ae92f2.chunk.js"
+  ]
+}
