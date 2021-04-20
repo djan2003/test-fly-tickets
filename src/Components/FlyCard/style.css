@@ -1,0 +1,18 @@
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.btn button{
+    width: 100%;
+    background-color: coral;
+    border: none;
+    height: 30px;
+}
+.FlyCardContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 30px;
+}

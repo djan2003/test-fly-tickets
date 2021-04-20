@@ -1,0 +1,30 @@
+.SortContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.checkBox {
+    display: flex;
+    flex-direction: column;
+}
+.NavContainer {
+    background-color: antiquewhite;
+    left: 0;
+    top: 0;
+    max-height: 700px;
+}
+.PriceContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.price {
+    max-width: 200px;
+    margin: 3px;
+}
+.airCompany {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}

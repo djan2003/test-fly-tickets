@@ -1,0 +1,27 @@
+.MainContainer{
+    max-width: 600px;
+}
+.header{
+    background-color: #84cbf1;
+    display: flex;
+    justify-content: space-between;
+    min-height: 5px;
+
+}
+.CityContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.TimeContainer{
+    display: flex;
+    justify-content: space-between;
+
+}
+.transit{
+    display: flex;
+    justify-content: center;
+}
+.AirlinesContainer{
+    display: flex;
+    justify-content: start;
+}
